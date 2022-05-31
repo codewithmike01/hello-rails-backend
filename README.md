@@ -2,6 +2,10 @@
 
 > In this rails project, set up as an api to be consumed by a react front-end as an external api.
 
+#### Link to React front-end Repo
+
+[React](https://github.com/Ginohmk/hello-react-front-end/pull/1)
+
 ## Video
 
 https://user-images.githubusercontent.com/58771507/171179596-04b69c00-5930-4018-a5f2-c0b61c96804d.mp4
